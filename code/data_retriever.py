@@ -3,6 +3,7 @@ import csv
 
 '''
 contains method to get cta_data
+Note: cta data has been filtered to exclude years prior to 2013
 '''
 
 def get_cta_data():
